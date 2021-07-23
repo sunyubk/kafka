@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /kafka
+
+
+kafka:
+  bootstrap-servers: localhost:9092
+  topic:
+    helloworld: testtopic
