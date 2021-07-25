@@ -1,4 +1,4 @@
-package com.sy.kafka.config.kafka.consumer;
+package com.sy.kafka.config.kafka.producer;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
