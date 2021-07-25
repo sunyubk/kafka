@@ -28,5 +28,6 @@ public class KafkaTestController {
         response.getWriter().write("success");
         response.getWriter().flush();
         response.getWriter().close();
+
     }
 }
